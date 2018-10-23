@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2018-10-12T02:52:30Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.3404,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "JAE_Extender"
+        },
+        "Owner": "Rg Jones <rg.jones@rogers.com>",
+        "Size": {
+            "X": 13,
+            "Y": 100
+        }
+    }
+}
